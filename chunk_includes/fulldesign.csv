@@ -99,10 +99,10 @@ order,list,item,cond,target_position,prepositions,order_of_mention,target_number
 30,2,5,3,6,below,1,plural,plural,The secretaries are below the swords and they are on Number 6.,E05_3_1.jpg,E05_3_2.jpg,Y,13,4,different,fem,inanimate,secretary,swords,Y_List2_Order30_Item_5_Cond3
 30,3,5,2,6,below,1,plural,singular,The secretaries are below the knight and they are on Number 6.,E05_2_1.jpg,E05_2_2.jpg,Y,15,4,same,fem,animate,secretary,knight,Y_List3_Order30_Item_5_Cond2
 30,4,5,4,6,below,1,plural,plural,The secretaries are below the knights and they are on Number 6.,E05_4_1.jpg,E05_4_2.jpg,Y,15,4,same,fem,animate,secretary,knights,Y_List4_Order30_Item_5_Cond4
-31,1,X32,9,,,1,plural,singular,There are some cherries and they are on the same line as the giraffe.,X32_9_1.jpg,X32_9_2.jpg,N,,,,,,are,cherries,N_List1_Order31_Item_X32_Cond9
-31,2,X32,9,,,1,plural,singular,There are some cherries and they are on the same line as the giraffe.,X32_9_1.jpg,X32_9_2.jpg,N,,,,,,are,cherries,N_List2_Order31_Item_X32_Cond9
-31,3,X32,9,,,1,plural,singular,There are some cherries and they are on the same line as the giraffe.,X32_9_1.jpg,X32_9_2.jpg,N,,,,,,are,cherries,N_List3_Order31_Item_X32_Cond9
-31,4,X32,9,,,1,plural,singular,There are some cherries and they are on the same line as the giraffe.,X32_9_1.jpg,X32_9_2.jpg,N,,,,,,are,cherries,N_List4_Order31_Item_X32_Cond9
+31,1,X32,9,,,1,plural,singular,There are some cherries and they are on the same row as the giraffe.,X32_9_1.jpg,X32_9_2.jpg,N,,,,,,are,cherries,N_List1_Order31_Item_X32_Cond9
+31,2,X32,9,,,1,plural,singular,There are some cherries and they are on the same row as the giraffe.,X32_9_1.jpg,X32_9_2.jpg,N,,,,,,are,cherries,N_List2_Order31_Item_X32_Cond9
+31,3,X32,9,,,1,plural,singular,There are some cherries and they are on the same row as the giraffe.,X32_9_1.jpg,X32_9_2.jpg,N,,,,,,are,cherries,N_List3_Order31_Item_X32_Cond9
+31,4,X32,9,,,1,plural,singular,There are some cherries and they are on the same row as the giraffe.,X32_9_1.jpg,X32_9_2.jpg,N,,,,,,are,cherries,N_List4_Order31_Item_X32_Cond9
 32,1,X24,9,,,1,singular,,The cat is on Number 4.,X24_9_1.jpg,X24_9_2.jpg,N,,,,,,cat,,N_List1_Order32_Item_X24_Cond9
 32,2,X24,9,,,1,singular,,The cat is on Number 4.,X24_9_1.jpg,X24_9_2.jpg,N,,,,,,cat,,N_List2_Order32_Item_X24_Cond9
 32,3,X24,9,,,1,singular,,The cat is on Number 4.,X24_9_1.jpg,X24_9_2.jpg,N,,,,,,cat,,N_List3_Order32_Item_X24_Cond9
@@ -121,8 +121,8 @@ order,list,item,cond,target_position,prepositions,order_of_mention,target_number
 35,4,X02,9,,,1,plural,,The keyboards are on Number 3 and they are above the pencil.,X02_9_1.jpg,X02_9_2.jpg,N,,,,,,keyboards,on,N_List4_Order35_Item_X02_Cond9
 36,1,3,2,1,next-to,1,plural,singular,The girls are next to the grandfather and they are on Number 1.,E03_2_1.jpg,E03_2_2.jpg,Y,11,3,same,fem,animate,girl,grandfather,Y_List1_Order36_Item_3_Cond2
 36,2,3,4,1,next-to,1,plural,plural,The girls are next to the grandfathers and they are on Number 1.,E03_4_1.jpg,E03_4_2.jpg,Y,11,3,same,fem,animate,girl,grandfathers,Y_List2_Order36_Item_3_Cond4
-36,3,3,3,1,next-to,1,plural,plural,The girls are next to the armchairs and they are on Number 1.,E03_3_1.jpg,E03_3_2.jpg,Y,9,3,different,fem,inanimate,girl,armchairs,Y_List3_Order36_Item_3_Cond3
-36,4,3,1,1,next-to,1,plural,singular,The girls are next to the armchair and they are on Number 1.,E03_1_1.jpg,E03_1_2.jpg,Y,9,3,different,fem,inanimate,girl,armchair,Y_List4_Order36_Item_3_Cond1
+36,3,3,3,1,next-to,1,plural,plural,The girls are next to the walking sticks and they are on Number 1.,E03_3_1.jpg,E03_3_2.jpg,Y,9,3,different,fem,inanimate,girl,armchairs,Y_List3_Order36_Item_3_Cond3
+36,4,3,1,1,next-to,1,plural,singular,The girls are next to the walking stick and they are on Number 1.,E03_1_1.jpg,E03_1_2.jpg,Y,9,3,different,fem,inanimate,girl,armchair,Y_List4_Order36_Item_3_Cond1
 37,1,X56,9,,,2,singlar,,The cards are below the Viking and they are on Number 4.,X56_9_1.jpg,X56_9_2.jpg,N,,,,,,Viking,above,N_List1_Order37_Item_X56_Cond9
 37,2,X56,9,,,2,singlar,,The cards are below the Viking and they are on Number 4.,X56_9_1.jpg,X56_9_2.jpg,N,,,,,,Viking,above,N_List2_Order37_Item_X56_Cond9
 37,3,X56,9,,,2,singlar,,The cards are below the Viking and they are on Number 4.,X56_9_1.jpg,X56_9_2.jpg,N,,,,,,Viking,above,N_List3_Order37_Item_X56_Cond9
@@ -167,8 +167,8 @@ order,list,item,cond,target_position,prepositions,order_of_mention,target_number
 47,2,X72,9,,,2,plural,singular,The kennel is next to the roosters and it is on Number 6.,X72_9_1.jpg,X72_9_2.jpg,N,,,,,,kennel,next-to,N_List2_Order47_Item_X72_Cond9
 47,3,X72,9,,,2,plural,singular,The kennel is next to the roosters and it is on Number 6.,X72_9_1.jpg,X72_9_2.jpg,N,,,,,,kennel,next-to,N_List3_Order47_Item_X72_Cond9
 47,4,X72,9,,,2,plural,singular,The kennel is next to the roosters and it is on Number 6.,X72_9_1.jpg,X72_9_2.jpg,N,,,,,,kennel,next-to,N_List4_Order47_Item_X72_Cond9
-48,1,7,3,1,above,1,plural,plural,The kings are above the boats and they are on Number 1.,E07_3_1.jpg,E07_3_2.jpg,Y,4,1,different,masc,inanimate,king,boats,Y_List1_Order48_Item_7_Cond3
-48,2,7,1,1,above,1,plural,singular,The kings are above the boat and they are on Number 1.,E07_1_1.jpg,E07_1_2.jpg,Y,4,1,different,masc,inanimate,king,boat,Y_List2_Order48_Item_7_Cond1
+48,1,7,3,1,above,1,plural,plural,The kings are above the wands and they are on Number 1.,E07_3_1.jpg,E07_3_2.jpg,Y,4,1,different,masc,inanimate,king,boats,Y_List1_Order48_Item_7_Cond3
+48,2,7,1,1,above,1,plural,singular,The kings are above the wand and they are on Number 1.,E07_1_1.jpg,E07_1_2.jpg,Y,4,1,different,masc,inanimate,king,boat,Y_List2_Order48_Item_7_Cond1
 48,3,7,2,1,above,1,plural,singular,The kings are above the fairy and they are on Number 1.,E07_2_1.jpg,E07_2_2.jpg,Y,3,1,same,masc,animate,king,fairy,Y_List3_Order48_Item_7_Cond2
 48,4,7,4,1,above,1,plural,plural,The kings are above the fairies and they are on Number 1.,E07_4_1.jpg,E07_4_2.jpg,Y,3,1,same,masc,animate,king,fairies,Y_List4_Order48_Item_7_Cond4
 49,1,X16,9,,,1,plural,,There are croissants and they are on Number 5.,X16_9_1.jpg,X16_9_2.jpg,N,,,,,,are,and,N_List1_Order49_Item_X16_Cond9
@@ -187,18 +187,18 @@ order,list,item,cond,target_position,prepositions,order_of_mention,target_number
 52,2,X59,9,,,2,singular,singular,"The musician is on Number 3, and he is above the scarf.",X59_9_1.jpg,X59_9_2.jpg,N,,,,,,musician,and,N_List2_Order52_Item_X59_Cond9
 52,3,X59,9,,,2,singular,singular,"The musician is on Number 3, and he is above the scarf.",X59_9_1.jpg,X59_9_2.jpg,N,,,,,,musician,and,N_List3_Order52_Item_X59_Cond9
 52,4,X59,9,,,2,singular,singular,"The musician is on Number 3, and he is above the scarf.",X59_9_1.jpg,X59_9_2.jpg,N,,,,,,musician,and,N_List4_Order52_Item_X59_Cond9
-53,1,X53,9,,,1,singular,singular,The sportswoman is on the same line as the folder and she is on Number 4.,X53_9_1.jpg,X53_9_2.jpg,N,,,,,,sportswoman,on,N_List1_Order53_Item_X53_Cond9
-53,2,X53,9,,,1,singular,singular,The sportswoman is on the same line as the folder and she is on Number 4.,X53_9_1.jpg,X53_9_2.jpg,N,,,,,,sportswoman,on,N_List2_Order53_Item_X53_Cond9
-53,3,X53,9,,,1,singular,singular,The sportswoman is on the same line as the folder and she is on Number 4.,X53_9_1.jpg,X53_9_2.jpg,N,,,,,,sportswoman,on,N_List3_Order53_Item_X53_Cond9
-53,4,X53,9,,,1,singular,singular,The sportswoman is on the same line as the folder and she is on Number 4.,X53_9_1.jpg,X53_9_2.jpg,N,,,,,,sportswoman,on,N_List4_Order53_Item_X53_Cond9
+53,1,X53,9,,,1,singular,singular,The sportswoman is on the same row as the folder and she is on Number 4.,X53_9_1.jpg,X53_9_2.jpg,N,,,,,,sportswoman,on,N_List1_Order53_Item_X53_Cond9
+53,2,X53,9,,,1,singular,singular,The sportswoman is on the same row as the folder and she is on Number 4.,X53_9_1.jpg,X53_9_2.jpg,N,,,,,,sportswoman,on,N_List2_Order53_Item_X53_Cond9
+53,3,X53,9,,,1,singular,singular,The sportswoman is on the same row as the folder and she is on Number 4.,X53_9_1.jpg,X53_9_2.jpg,N,,,,,,sportswoman,on,N_List3_Order53_Item_X53_Cond9
+53,4,X53,9,,,1,singular,singular,The sportswoman is on the same row as the folder and she is on Number 4.,X53_9_1.jpg,X53_9_2.jpg,N,,,,,,sportswoman,on,N_List4_Order53_Item_X53_Cond9
 54,1,19,2,4,next-to,1,plural,singular,The waiters are next to the nun and they are on Number 4.,E19_2_1.jpg,E19_2_2.jpg,Y,26,7,same,masc,animate,waiter,nun,Y_List1_Order54_Item_19_Cond2
 54,2,19,4,4,next-to,1,plural,plural,The waiters are next to the nuns and they are on Number 4.,E19_4_1.jpg,E19_4_2.jpg,Y,26,7,same,masc,animate,waiter,nuns,Y_List2_Order54_Item_19_Cond4
 54,3,19,1,4,next-to,1,plural,singular,The waiters are next to the bible and they are on Number 4.,E19_1_1.jpg,E19_1_2.jpg,Y,28,7,different,masc,inanimate,waiter,bible,Y_List3_Order54_Item_19_Cond1
 54,4,19,3,4,next-to,1,plural,plural,The waiters are next to the bibles and they are on Number 4.,E19_3_1.jpg,E19_3_2.jpg,Y,28,7,different,masc,inanimate,waiter,bibles,Y_List4_Order54_Item_19_Cond3
-55,1,X34,9,,,2,plural,singular,The harp is on Number 4 and it is below the pigeons.,X34_9_1.jpg,X34_9_2.jpg,N,,,,,,harp,and,N_List1_Order55_Item_X34_Cond9
-55,2,X34,9,,,2,plural,singular,The harp is on Number 4 and it is below the pigeons.,X34_9_1.jpg,X34_9_2.jpg,N,,,,,,harp,and,N_List2_Order55_Item_X34_Cond9
-55,3,X34,9,,,2,plural,singular,The harp is on Number 4 and it is below the pigeons.,X34_9_1.jpg,X34_9_2.jpg,N,,,,,,harp,and,N_List3_Order55_Item_X34_Cond9
-55,4,X34,9,,,2,plural,singular,The harp is on Number 4 and it is below the pigeons.,X34_9_1.jpg,X34_9_2.jpg,N,,,,,,harp,and,N_List4_Order55_Item_X34_Cond9
+55,1,X34,9,,,2,plural,singular,The harp is on Number 4 and it is on the row below the pigeons.,X34_9_1.jpg,X34_9_2.jpg,N,,,,,,harp,and,N_List1_Order55_Item_X34_Cond9
+55,2,X34,9,,,2,plural,singular,The harp is on Number 4 and it is on the row below the pigeons.,X34_9_1.jpg,X34_9_2.jpg,N,,,,,,harp,and,N_List2_Order55_Item_X34_Cond9
+55,3,X34,9,,,2,plural,singular,The harp is on Number 4 and it is on the row below the pigeons.,X34_9_1.jpg,X34_9_2.jpg,N,,,,,,harp,and,N_List3_Order55_Item_X34_Cond9
+55,4,X34,9,,,2,plural,singular,The harp is on Number 4 and it is on the row below the pigeons.,X34_9_1.jpg,X34_9_2.jpg,N,,,,,,harp,and,N_List4_Order55_Item_X34_Cond9
 56,1,X65,9,,,1,plural,,There are crabs on Number 3.,X65_9_1.jpg,X65_9_2.jpg,N,,,,,,are,on,N_List1_Order56_Item_X65_Cond9
 56,2,X65,9,,,1,plural,,There are crabs on Number 3.,X65_9_1.jpg,X65_9_2.jpg,N,,,,,,are,on,N_List2_Order56_Item_X65_Cond9
 56,3,X65,9,,,1,plural,,There are crabs on Number 3.,X65_9_1.jpg,X65_9_2.jpg,N,,,,,,are,on,N_List3_Order56_Item_X65_Cond9
@@ -243,10 +243,10 @@ order,list,item,cond,target_position,prepositions,order_of_mention,target_number
 66,2,1,3,3,next-to,1,plural,plural,The princes are next to the cheques and they are on Number 3.,E01_3_1.jpg,E01_3_2.jpg,Y,8,2,different,masc,inanimate,prince,cheques,Y_List2_Order66_Item_1_Cond3
 66,3,1,4,3,next-to,1,plural,plural,The princes are next to the cashiers and they are on Number 3.,E01_4_1.jpg,E01_4_2.jpg,Y,6,2,same,masc,animate,prince,cashiers,Y_List3_Order66_Item_1_Cond4
 66,4,1,2,3,next-to,1,plural,singular,The princes are next to the cashier and they are on Number 3.,E01_2_1.jpg,E01_2_2.jpg,Y,6,2,same,masc,animate,prince,cashier,Y_List4_Order66_Item_1_Cond2
-67,1,X48,9,,,1,singular,singular,"The baby is on Number 1, and she is on the same line as the comb.",X48_9_1.jpg,X48_9_2.jpg,N,,,,,,baby,and,N_List1_Order67_Item_X48_Cond9
-67,2,X48,9,,,1,singular,singular,"The baby is on Number 1, and she is on the same line as the comb.",X48_9_1.jpg,X48_9_2.jpg,N,,,,,,baby,and,N_List2_Order67_Item_X48_Cond9
-67,3,X48,9,,,1,singular,singular,"The baby is on Number 1, and she is on the same line as the comb.",X48_9_1.jpg,X48_9_2.jpg,N,,,,,,baby,and,N_List3_Order67_Item_X48_Cond9
-67,4,X48,9,,,1,singular,singular,"The baby is on Number 1, and she is on the same line as the comb.",X48_9_1.jpg,X48_9_2.jpg,N,,,,,,baby,and,N_List4_Order67_Item_X48_Cond9
+67,1,X48,9,,,1,singular,singular,"The baby is on Number 1, and she is on the same row as the comb.",X48_9_1.jpg,X48_9_2.jpg,N,,,,,,baby,and,N_List1_Order67_Item_X48_Cond9
+67,2,X48,9,,,1,singular,singular,"The baby is on Number 1, and she is on the same row as the comb.",X48_9_1.jpg,X48_9_2.jpg,N,,,,,,baby,and,N_List2_Order67_Item_X48_Cond9
+67,3,X48,9,,,1,singular,singular,"The baby is on Number 1, and she is on the same row as the comb.",X48_9_1.jpg,X48_9_2.jpg,N,,,,,,baby,and,N_List3_Order67_Item_X48_Cond9
+67,4,X48,9,,,1,singular,singular,"The baby is on Number 1, and she is on the same row as the comb.",X48_9_1.jpg,X48_9_2.jpg,N,,,,,,baby,and,N_List4_Order67_Item_X48_Cond9
 68,1,X01,9,,,1,plural,,The shells are on Number 6 and they are on the row below the basil and the oven.,X01_9_1.jpg,X01_9_2.jpg,N,,,,,,shells,on,N_List1_Order68_Item_X01_Cond9
 68,2,X01,9,,,1,plural,,The shells are on Number 6 and they are on the row below the basil and the oven.,X01_9_1.jpg,X01_9_2.jpg,N,,,,,,shells,on,N_List2_Order68_Item_X01_Cond9
 68,3,X01,9,,,1,plural,,The shells are on Number 6 and they are on the row below the basil and the oven.,X01_9_1.jpg,X01_9_2.jpg,N,,,,,,shells,on,N_List3_Order68_Item_X01_Cond9
@@ -277,8 +277,8 @@ order,list,item,cond,target_position,prepositions,order_of_mention,target_number
 74,4,X47,9,,,1,singular,,There is a gift and it is on Number 5.,X47_9_1.jpg,X47_9_2.jpg,N,,,,,,is,gift,N_List4_Order74_Item_X47_Cond9
 75,1,13,2,5,below,1,plural,singular,The countesses are below the bellboy and they are on Number 5.,E13_2_1.jpg,E13_2_2.jpg,Y,14,4,same,fem,animate,countess,bellboy,Y_List1_Order75_Item_13_Cond2
 75,2,13,4,5,below,1,plural,plural,The countesses are below the bellboys and they are on Number 5.,E13_4_1.jpg,E13_4_2.jpg,Y,14,4,same,fem,animate,countess,bellboys,Y_List2_Order75_Item_13_Cond4
-75,3,13,1,5,below,1,plural,singular,The countesses are below the trolley and they are on Number 5.,E13_1_1.jpg,E13_1_2.jpg,Y,13,4,different,fem,inanimate,countess,trolley,Y_List3_Order75_Item_13_Cond1
-75,4,13,3,5,below,1,plural,plural,The countesses are below the trolleys and they are on Number 5.,E13_3_1.jpg,E13_3_2.jpg,Y,13,4,different,fem,inanimate,countess,trolleys,Y_List4_Order75_Item_13_Cond3
+75,3,13,1,5,below,1,plural,singular,The countesses are below the suitcase and they are on Number 5.,E13_1_1.jpg,E13_1_2.jpg,Y,13,4,different,fem,inanimate,countess,trolley,Y_List3_Order75_Item_13_Cond1
+75,4,13,3,5,below,1,plural,plural,The countesses are below the suitcases and they are on Number 5.,E13_3_1.jpg,E13_3_2.jpg,Y,13,4,different,fem,inanimate,countess,trolleys,Y_List4_Order75_Item_13_Cond3
 76,1,X14,9,,,2,plural,singular,Next to the sweets there is a magician and he is on Number 6.,X14_9_1.jpg,X14_9_2.jpg,N,,,,,,sweets,is,N_List1_Order76_Item_X14_Cond9
 76,2,X14,9,,,2,plural,singular,Next to the sweets there is a magician and he is on Number 6.,X14_9_1.jpg,X14_9_2.jpg,N,,,,,,sweets,is,N_List2_Order76_Item_X14_Cond9
 76,3,X14,9,,,2,plural,singular,Next to the sweets there is a magician and he is on Number 6.,X14_9_1.jpg,X14_9_2.jpg,N,,,,,,sweets,is,N_List3_Order76_Item_X14_Cond9
@@ -299,8 +299,8 @@ order,list,item,cond,target_position,prepositions,order_of_mention,target_number
 80,2,X39,9,,,1,plural,,There are soaps and they are on Number 6.,X39_9_1.jpg,X39_9_2.jpg,N,,,,,,are,and,N_List2_Order80_Item_X39_Cond9
 80,3,X39,9,,,1,plural,,There are soaps and they are on Number 6.,X39_9_1.jpg,X39_9_2.jpg,N,,,,,,are,and,N_List3_Order80_Item_X39_Cond9
 80,4,X39,9,,,1,plural,,There are soaps and they are on Number 6.,X39_9_1.jpg,X39_9_2.jpg,N,,,,,,are,and,N_List4_Order80_Item_X39_Cond9
-81,1,6,3,3,above,1,plural,plural,The soldiers are above the footballs and they are on Number 3.,E06_3_1.jpg,E06_3_2.jpg,Y,32,8,different,masc,inanimate,soldier,footballs,Y_List1_Order81_Item_6_Cond3
-81,2,6,1,3,above,1,plural,singular,The soldiers are above the football and they are on Number 3.,E06_1_1.jpg,E06_1_2.jpg,Y,32,8,different,masc,inanimate,soldier,football,Y_List2_Order81_Item_6_Cond1
+81,1,6,3,3,above,1,plural,plural,The soldiers are above the pom-poms and they are on Number 3.,E06_3_1.jpg,E06_3_2.jpg,Y,32,8,different,masc,inanimate,soldier,footballs,Y_List1_Order81_Item_6_Cond3
+81,2,6,1,3,above,1,plural,singular,The soldiers are above the pom-pom and they are on Number 3.,E06_1_1.jpg,E06_1_2.jpg,Y,32,8,different,masc,inanimate,soldier,football,Y_List2_Order81_Item_6_Cond1
 81,3,6,4,3,above,1,plural,plural,The soldiers are above the cheerleaders and they are on Number 3.,E06_4_1.jpg,E06_4_2.jpg,Y,31,8,same,masc,animate,soldier,cheerleaders,Y_List3_Order81_Item_6_Cond4
 81,4,6,2,3,above,1,plural,singular,The soldiers are above the cheerleader and they are on Number 3.,E06_2_1.jpg,E06_2_2.jpg,Y,31,8,same,masc,animate,soldier,cheerleader,Y_List4_Order81_Item_6_Cond2
 82,1,X35,9,,,2,singular,,The cow is on Number 5 and it is on the row below the pianist.,X35_9_1.jpg,X35_9_2.jpg,N,,,,,,cow,and,N_List1_Order82_Item_X35_Cond9
@@ -373,8 +373,8 @@ order,list,item,cond,target_position,prepositions,order_of_mention,target_number
 98,4,X68,9,,,1,singular,,The radiator is below the volley player and it is on Number 1.,X68_9_1.jpg,X68_9_2.jpg,N,,,,,,radiator,below,N_List4_Order98_Item_X68_Cond9
 99,1,26,2,2,above,1,plural,singular,The boys are above the grandmother and they are on Number 2.,E26_2_1.jpg,E26_2_2.jpg,Y,10,3,same,masc,animate,boy,grandmother,Y_List1_Order99_Item_26_Cond2
 99,2,26,4,2,above,1,plural,plural,The boys are above the grandmothers and they are on Number 2.,E26_4_1.jpg,E26_4_2.jpg,Y,10,3,same,masc,animate,boy,grandmothers,Y_List2_Order99_Item_26_Cond4
-99,3,26,3,2,above,1,plural,plural,The boys are above the armchairs and they are on Number 2.,E26_3_1.jpg,E26_3_2.jpg,Y,12,3,different,masc,inanimate,boy,armchairs,Y_List3_Order99_Item_26_Cond3
-99,4,26,1,2,above,1,plural,singular,The boys are above the armchair and they are on Number 2.,E26_1_1.jpg,E26_1_2.jpg,Y,12,3,different,masc,inanimate,boy,armchair,Y_List4_Order99_Item_26_Cond1
+99,3,26,3,2,above,1,plural,plural,The boys are above the walking sticks and they are on Number 2.,E26_3_1.jpg,E26_3_2.jpg,Y,12,3,different,masc,inanimate,boy,armchairs,Y_List3_Order99_Item_26_Cond3
+99,4,26,1,2,above,1,plural,singular,The boys are above the walking stick and they are on Number 2.,E26_1_1.jpg,E26_1_2.jpg,Y,12,3,different,masc,inanimate,boy,armchair,Y_List4_Order99_Item_26_Cond1
 100,1,X29,9,,,2,singular,singular,"Next to the skater, there is a cocktail on Number 2.",X29_9_1.jpg,X29_9_2.jpg,N,,,,,,"skater,",is,N_List1_Order100_Item_X29_Cond9
 100,2,X29,9,,,2,singular,singular,"Next to the skater, there is a cocktail on Number 2.",X29_9_1.jpg,X29_9_2.jpg,N,,,,,,"skater,",is,N_List2_Order100_Item_X29_Cond9
 100,3,X29,9,,,2,singular,singular,"Next to the skater, there is a cocktail on Number 2.",X29_9_1.jpg,X29_9_2.jpg,N,,,,,,"skater,",is,N_List3_Order100_Item_X29_Cond9
@@ -455,10 +455,10 @@ order,list,item,cond,target_position,prepositions,order_of_mention,target_number
 119,2,X51,9,,,1,plural,singular,There are eagles and they are on Number 6.,X51_9_1.jpg,X51_9_2.jpg,N,,,,,,are,and,N_List2_Order119_Item_X51_Cond9
 119,3,X51,9,,,1,plural,singular,There are eagles and they are on Number 6.,X51_9_1.jpg,X51_9_2.jpg,N,,,,,,are,and,N_List3_Order119_Item_X51_Cond9
 119,4,X51,9,,,1,plural,singular,There are eagles and they are on Number 6.,X51_9_1.jpg,X51_9_2.jpg,N,,,,,,are,and,N_List4_Order119_Item_X51_Cond9
-120,1,X04,9,,,2,singular,singular,"Below the scooter, there is a singer and she is on Number 5.",X04_9_1.jpg,X04_9_2.jpg,N,,,,,,"scooter,",is,N_List1_Order120_Item_X04_Cond9
-120,2,X04,9,,,2,singular,singular,"Below the scooter, there is a singer and she is on Number 5.",X04_9_1.jpg,X04_9_2.jpg,N,,,,,,"scooter,",is,N_List2_Order120_Item_X04_Cond9
-120,3,X04,9,,,2,singular,singular,"Below the scooter, there is a singer and she is on Number 5.",X04_9_1.jpg,X04_9_2.jpg,N,,,,,,"scooter,",is,N_List3_Order120_Item_X04_Cond9
-120,4,X04,9,,,2,singular,singular,"Below the scooter, there is a singer and she is on Number 5.",X04_9_1.jpg,X04_9_2.jpg,N,,,,,,"scooter,",is,N_List4_Order120_Item_X04_Cond9
+120,1,X04,9,,,2,singular,singular,"On the row below the scooter, there is a singer and she is on Number 5.",X04_9_1.jpg,X04_9_2.jpg,N,,,,,,"scooter,",is,N_List1_Order120_Item_X04_Cond9
+120,2,X04,9,,,2,singular,singular,"On the row below the scooter, there is a singer and she is on Number 5.",X04_9_1.jpg,X04_9_2.jpg,N,,,,,,"scooter,",is,N_List2_Order120_Item_X04_Cond9
+120,3,X04,9,,,2,singular,singular,"On the row below the scooter, there is a singer and she is on Number 5.",X04_9_1.jpg,X04_9_2.jpg,N,,,,,,"scooter,",is,N_List3_Order120_Item_X04_Cond9
+120,4,X04,9,,,2,singular,singular,"On the row below the scooter, there is a singer and she is on Number 5.",X04_9_1.jpg,X04_9_2.jpg,N,,,,,,"scooter,",is,N_List4_Order120_Item_X04_Cond9
 121,1,X77,9,,,2,singular,singular,"There is a runner, on the same row as the zebra, and she is on Number 4.",X77_9_1.jpg,X77_9_2.jpg,N,,,,,,is,"runner,",N_List1_Order121_Item_X77_Cond9
 121,2,X77,9,,,2,singular,singular,"There is a runner, on the same row as the zebra, and she is on Number 4.",X77_9_1.jpg,X77_9_2.jpg,N,,,,,,is,"runner,",N_List2_Order121_Item_X77_Cond9
 121,3,X77,9,,,2,singular,singular,"There is a runner, on the same row as the zebra, and she is on Number 4.",X77_9_1.jpg,X77_9_2.jpg,N,,,,,,is,"runner,",N_List3_Order121_Item_X77_Cond9
