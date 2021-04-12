@@ -4,7 +4,7 @@ var showProgressBar = false;
 PennController.AddHost("https://raw.githubusercontent.com/awpzs/Number_ENG_Exp4/main/images/")
 PennController.AddHost("https://raw.githubusercontent.com/awpzs/Number_ENG_Exp4/main/images_fillers/")
 
-Sequence( "initRecorder", "mic_check_1", "mic_check_2", "setcounter", "information", "survey", "identification", "recording_information", "initRecorder", "instruction", "prac", "exp_start", "exp_block1", "rest", "exp_block2", "send", "final" )
+Sequence( "initRecorder", "mic_check_1", "mic_check_2", "setcounter", "information", "survey", "identification", "recording_information",  "instruction", "prac", "exp_start", "exp_block1", "rest", "exp_block2", "send", "final" )
 
 InitiateRecorder("https://localhost/pcibex/index.php", "<p>Thank you very much for your interest in participating in this study.</p><p>This experiment involves audio recording, so let us first test if your microphone is working.</p><p><strong>In the following microphone test, you’ll be asked to name aloud two images, while your responses are audio recorded.</strong></p><p>Please grant expt.pcibex.net access to your microphone, by clicking on the link below.</p><p><strong>The recording will start immediately, and you’ll be prompted to name an image aloud.</strong></p><p><strong>You will be able to listen to your response by clicking on “Playback”.</strong></p>").label("initRecorder")
 //InitiateRecorder("https://langprolab.stir.ac.uk/pcibex2/index.php", "<p>Thank you very much for your interest in participating in this study.</p><p>This experiment involves audio recording, so let us first test if your microphone is working.</p><p><strong>In the following microphone test, you’ll be asked to name aloud two images, while your responses are audio recorded.</strong></p><p>Please grant expt.pcibex.net access to your microphone, by clicking on the link below.</p><p><strong>The recording will start immediately, and you’ll be prompted to name an image aloud.</strong></p><p><strong>You will be able to listen to your response by clicking on “Playback”.</strong></p>").label("initRecorder")
@@ -156,9 +156,6 @@ newTrial("recording_information" ,
         .print()
         .wait()    
 )
-
-InitiateRecorder("https://localhost/pcibex/index.php", "Please grant expt.pcibex.net access to your microphone.").label("initRecorder")
-//InitiateRecorder("https://langprolab.stir.ac.uk/pcibex2/index.php", "Please grant expt.pcibex.net access to your microphone.").label("initRecorder")
 
 Template(
     GetTable("instructions.csv")
@@ -402,7 +399,7 @@ newTrial( "final"
         .settings.center()
         .print()
     ,
-    newText("<p>If you were asked to download a copy of the recordings on the last page, please send the file and your Prolific ID to <strong>kumiko.fukumura[at]stir.ac.uk.</strong></p><p>Otherwise, please click on the link below to validate your participation.</p>")
+    newText("<p>If you were asked to download a copy of the recordings on the last page, please send the file and your unique ID to <strong>kumiko.fukumura[at]stir.ac.uk.</strong></p><p>Otherwise, please click on the link below to validate your participation.</p>")
         .settings.center()
         .print()
     ,
