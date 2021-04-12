@@ -403,7 +403,7 @@ newTrial( "final"
         .settings.center()
         .print()
     ,
-    newText("<p><a href='https://stirling.sona-systems.com/webstudy_credit.aspx?experiment_id=1945&credit_token=0720e6c0bb184e41be5b4401b1fd6368&survey_code="+GetURLParameter("id")+"'>Click here to validate your participation and finish the experiment</a></p>")
+    newText("<p><a href='https://stirling.sona-systems.com/webstudy_credit.aspx?experiment_id=1949&credit_token=b48c76c8ce3b4b0b948c635266418bd1&survey_code="+GetURLParameter("id")+"'>Click here to validate your participation and finish the experiment</a></p>")
         .settings.center()
         .print()
     ,
